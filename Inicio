@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A PUERTAS ABIERTAS</title>
+</head>
+<body>
+
+<header>
+    <h1>A PUERTAS ABIERTAS A.P.A<h1>
+    <p>Todos juntos es mejor</p>
+</header>
+
+<section>
+    <h2>Bienvenidos</h2>
+    <p>Sumate con nosotros</p>
+</section>
+
+<section>
+    <h2>¿Como surgio esta idea?</h2>
+    <a href="Nosotros.html">Conoce nuestra historia y nuestros valores</a>
+</section>
+
+<section>
+    <h2>¿Que hacemos?</h2>
+    <a href="ProgramasEiniciativas.html">Conoce nuestros programas e iniciativas</a>
+</section>
+
+<section>
+    <h2>¿Cómo puedes ayudar?</h2>
+    <p>Puedes colaborar con nosotros a través de donaciones, voluntariado o difundiendo nuestras iniciativas.</p>
+    <ul>
+        <li>Haciendo una donación</li>
+        <li>Sumándote como voluntario</li>
+        <li>Compartiendo nuestra causa</li>
+    </ul>
+</section>
+
+<section>
+    <h3>Contactanos o sigue nuestras redes para saber mas</h3>
+    <a href="contacto.html">Contacto y redes</a>
+</section>
+
+</body>
+<footer>
+    <p>&copy; 2026 A puertas abiertas (A.P.A). Todos los derechos reservados.</p>
+</footer>
+</html>
