@@ -6,7 +6,7 @@
 
 body {
       font-family: 'Segoe UI', Tahoma , Geneva , Verdana , sans-serif;
-      background: linear-grandient (135 deg , #f5f7fa 0 % , #c3fe2 100 %);
+      background: linear-gradient(135deg , #f5f7fa 0%, #c3cfe2 100%);
       color: #333;
       line-height: 1.6;
       padding: 20 px;
@@ -30,7 +30,7 @@ main {
 }
 
 section {
-        barckground: white;
+        background: white;
         margin-bottom: 30 px;
         padding: 35 px;
         border-radius: 15 px;
