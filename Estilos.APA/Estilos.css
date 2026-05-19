@@ -1,5 +1,5 @@
 /* ==========================================================================
-   1. VARIABLES CSS (Paleta de colores de la ONG)
+  Paleta de colores de la ONG
    ========================================================================== */
 :root {
     --color-primario: #b30000;    /* Rojo institucional */
@@ -12,7 +12,7 @@
 }
 
 /* ==========================================================================
-   2. RESET BÁSICO (Box model universal)
+   Box model universal
    ========================================================================== */
 * {
     box-sizing: border-box; /* Requisito explícito del modelo de caja */
@@ -21,7 +21,7 @@
 }
 
 /* ==========================================================================
-   3. ESTILOS GLOBALES (Body y Tipografía base)
+  Body y Tipografía base
    ========================================================================== */
 body {
     font-family: var(--fuente-principal);
@@ -31,7 +31,7 @@ body {
     color: var(--color-texto);
 }
 
-/* Estilos diferenciados para Headings (Títulos) */
+/* Titulos */
 h1 {
     color: var(--color-primario);
     font-size: 24px;
@@ -56,7 +56,7 @@ p {
     margin-bottom: 15px;
 }
 
-/* Confinamiento y centrado del contenido principal (No pegado a los bordes) */
+/* Centrado del contenido principal  */
 main, .contenedor-principal, section[aria-labelledby="programas-iniciativas"] {
     max-width: 1100px;
     margin: 30px auto;
@@ -64,7 +64,7 @@ main, .contenedor-principal, section[aria-labelledby="programas-iniciativas"] {
 }
 
 /* ==========================================================================
-   4. HEADER Y NAVEGACIÓN (Uso de Selectores de ID y Descendientes)
+  Header y Navegacion
    ========================================================================== */
 /* Selector de ID para el contenedor del encabezado */
 #main-header {
@@ -76,7 +76,7 @@ main, .contenedor-principal, section[aria-labelledby="programas-iniciativas"] {
 /* Selector descendiente para los enlaces de navegación */
 #main-header table td a {
     color: var(--color-primario);
-    text-decoration: none; /* Quita el subrayado por defecto */
+    text-decoration: none; 
     font-weight: bold;
     font-size: 14px;
     padding: 5px 10px;
@@ -91,7 +91,7 @@ main, .contenedor-principal, section[aria-labelledby="programas-iniciativas"] {
 }
 
 /* ==========================================================================
-   5. TABLAS (Requisito de estilización si el sitio posee tablas)
+   Tablas, requisito de estilización 
    ========================================================================== */
 header table {
     width: 100%;
@@ -119,7 +119,7 @@ header td:not(:first-child):not(:nth-child(2)) {
 }
 
 /* ==========================================================================
-   6. SECCIONES Y COMPONENTES (Contenido / Artículos)
+ Secciones y Componentes
    ========================================================================== */
 /* Caja contenedora blanca con bordes redondeados simulando la imagen */
 section[aria-labelledby="programas-iniciativas"] {
@@ -143,7 +143,7 @@ article {
 }
 
 /* ==========================================================================
-   7. PIE DE PÁGINA (Footer)
+   Footer
    ========================================================================== */
 footer {
     background-color: var(--color-contenedor);
