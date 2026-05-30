@@ -7,11 +7,6 @@ A Puertas Abiertas es una organización solidaria dedicada a brindar ayuda human
 ## 🌍 Nuestra misión
 
 Brindar ayuda sin condiciones ni barreras, promoviendo la inclusión, la solidaridad y el acompañamiento humano para mejorar la calidad de vida de quienes más lo necesitan.
-
----
-
-## 👁️ Nuestra visión
-
 Construir una comunidad más justa, unida y solidaria, donde todas las personas tengan acceso a apoyo, oportunidades y contención social.
 
 ---
@@ -46,14 +41,6 @@ Campañas solidarias, donaciones y jornadas de voluntariado.
 
 ---
 
-## 📊 Impacto
-* Familias asistidas mediante campañas solidarias
-* Jornadas comunitarias realizadas
-* Programas educativos desarrollados
-* Voluntarios participando activamente
-
-
----
 
 ## 💡 ¿Cómo colaborar?
 
