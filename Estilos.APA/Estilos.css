@@ -298,3 +298,25 @@ article:hover {
     color: var(--color-primario);
     padding: 0;
 }
+
+/* ==========================================================================
+   Navbar Bootstrap
+   ========================================================================== */
+
+.fondo-navbar{
+    background-color:#6b0000;
+}
+
+.navbar-brand{
+    color:white !important;
+    font-weight:bold;
+}
+
+.nav-link{
+    color:white !important;
+    font-weight:500;
+}
+
+.nav-link:hover{
+    color:#ffd6d6 !important;
+}
