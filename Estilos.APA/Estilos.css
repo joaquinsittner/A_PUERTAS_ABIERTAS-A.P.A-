@@ -393,6 +393,10 @@ article:hover {
     margin-bottom:20px;
 }
 
+.form-btn:hover{
+    background-color: var(--color-secundario);
+}
+
 /* =============================================================================
  css/estilos.css — lo mínimo necesario 
  ============================================================================= */
