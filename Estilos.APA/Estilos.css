@@ -389,6 +389,9 @@ article:hover {
             transition: background-color 0.3s;
             margin-top: 10px;
         } 
+.form-grupo{
+    margin-bottom:20px;
+}
 
 /* =============================================================================
  css/estilos.css — lo mínimo necesario 
